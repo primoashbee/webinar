@@ -13,7 +13,7 @@ https://getcomposer.org/Composer-Setup.exe
  7. run `php artisan serve` (if you're not using apache server)
  8. Open browser and go to `127.0.0.1:8000`
 
-## Don't forget to create .env file on the project root folder (.env)
+## Don't forget to create .env file on the project root folder (copy .env.example)
 
 Try laragon! A must for developing PHP Applications (Laravel included) :)
 
