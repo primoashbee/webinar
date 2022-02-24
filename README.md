@@ -11,6 +11,8 @@ https://getcomposer.org/Composer-Setup.exe
  5. run `composer install`
  6. run `php artisan serve` (if you're not using apache server)
 
+##Don't forget to create .env file on the project root folder (.env)
+
 Try laragon! A must for developing PHP Applications (Laravel included) :)
 
 
