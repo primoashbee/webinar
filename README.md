@@ -10,6 +10,7 @@ https://getcomposer.org/Composer-Setup.exe
  4. Open terminal go to project directory
  5. run `composer install`
  6. run `php artisan serve` (if you're not using apache server)
+ 7. Open browser and go to `127.0.0.1:8000`
 
 ##Don't forget to create .env file on the project root folder (.env)
 
